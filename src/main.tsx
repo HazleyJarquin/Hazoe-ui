@@ -21,8 +21,6 @@ Sentry.init({
 
 ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
   <React.StrictMode>
-    <App>
-      <h1>hola</h1>
-    </App>
+    <App>hi world</App>
   </React.StrictMode>
 );

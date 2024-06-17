@@ -1,7 +1,7 @@
 {
   "name": "hazoe-ui",
   "private": false,
-  "version": "0.0.5",
+  "version": "1.0.0",
   "type": "module",
   "license": "MIT",
   "files": [
